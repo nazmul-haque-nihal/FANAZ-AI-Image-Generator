@@ -159,14 +159,8 @@
 
 ### Main Interface
 <div align="center">
+<img width="1449" height="990" alt="sampleDashboard" src="https://github.com/user-attachments/assets/eae44e9f-ca02-434e-82f5-2bdfd73b1f42" />
 
-| Prompt Input | Image Gallery |
-|-------------|---------------|
-| ![Main Interface](https://via.placeholder.com/600x400/6366f1/ffffff?text=Prompt+Input+Section) | ![Gallery](https://via.placeholder.com/600x400/6366f1/ffffff?text=Image+Gallery+Section) |
-
-| Generation Progress | Image Preview |
-|-------------------|---------------|
-| ![Progress](https://via.placeholder.com/600x400/6366f1/ffffff?text=Progress+Tracking) | ![Preview](https://via.placeholder.com/600x400/6366f1/ffffff?text=Image+Preview) |
 
 </div>
 
@@ -448,10 +442,10 @@ Looking for exciting opportunities to work on:
 | Platform | Link |
 |-----------|-------|
 | **🌐 Portfolio** | [nazmul-haque-nihal.github.io](https://nazmul-haque-nihal.github.io/) |
-| **💼 LinkedIn** | [linkedin.com/in/nazmul-haque-nihal](https://linkedin.com/in/nazmul-haque-nihal) |
+| **💼 LinkedIn** | [linkedin.com/in/nazmul-haque-nihal](https://www.linkedin.com/in/nazmul-haque-nihal-07-55b87a248/) |
 | **🐙 GitHub** | [github.com/nazmul-haque-nihal](https://github.com/nazmul-haque-nihal) |
-| **📧 Email** | [hire@nazmul.com](mailto:hire@nazmul.com) |
-| **🐦 Twitter** | [@nazmul_dev](https://twitter.com/nazmul_dev) |
+| **📧 Email** | [nazmulhaquegreen@gmail.com](nazmulhaquegreen@gmail.com) |
+
 
 ### 🎯 Looking For
 
